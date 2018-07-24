@@ -43,6 +43,15 @@ article {
   /* only for demonstration, should be removed */
 }
 
+.pagination a.active {
+  background-color: #1ddd04;
+  color: white;
+}
+
+.pagination a:hover:not(.active) {
+  background-color: #ddd;
+}
+
 /* Clear floats after the columns */
 
 section:after {
