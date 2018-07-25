@@ -1,6 +1,7 @@
 Projects:
-* Website supermarket 
-* Transunited Website creation 
+* Website supermarket (business)
+* Willemijn Da Campo (art)
+* Trans United Nederland Website creation (NGO)
 
 Start : July 15th
 DEADLINE: Oktober 17th 
