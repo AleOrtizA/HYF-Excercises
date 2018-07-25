@@ -20,8 +20,8 @@ header {
 
 nav {
   float: left;
-  width: 30%;
-  height: 500px;
+  width: 50%;
+  height: 800px;
   /* only for demonstration, should be removed */
   background: #ccc;
   padding: 20px;
@@ -37,7 +37,7 @@ nav ul {
 article {
   float: left;
   padding: 20px;
-  width: 70%;
+  width: 50%;
   background-color: #ffffff;
   height: 800px;
   /* only for demonstration, should be removed */
