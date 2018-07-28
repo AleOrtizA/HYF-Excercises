@@ -6,8 +6,6 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-/* Style the header */
-
 header {
   background-color: #1ddd04;
   padding: 30px;
@@ -16,18 +14,13 @@ header {
   color: white;
 }
 
-/* Create two columns/boxes that floats next to each other */
-
 nav {
   float: left;
   width: 50%;
   height: 800px;
-  /* only for demonstration, should be removed */
   background: #ccc;
   padding: 20px;
 }
-
-/* Style the list inside the menu */
 
 nav ul {
   list-style-type: none;
@@ -40,10 +33,7 @@ article {
   width: 50%;
   background-color: #ffffff;
   height: 800px;
-  /* only for demonstration, should be removed */
 }
-
-/* Clear floats after the columns */
 
 section:after {
   content: "";
@@ -51,16 +41,12 @@ section:after {
   clear: both;
 }
 
-/* Style the footer */
-
 footer {
   background-color: #1ddd04;
   padding: 22px;
   text-align: center;
   color: white;
 }
-
-/* Responsive layout - makes the two columns/boxes stack on top of each other instead of next to each other, on small screens */
 
 @media (max-width: 1200px) {
   nav,
