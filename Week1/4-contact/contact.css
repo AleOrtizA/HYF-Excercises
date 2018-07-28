@@ -6,11 +6,34 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-header {
+top-navbar {
   background-color: #1ddd04;
   padding: 30px;
-  text-align: center;
+  text-align: left;
   font-size: 20px;
+  color: white;
+}
+
+.top-navbar ul {
+  list-style: none;
+  display: flex;
+  background-color: #1ddd04;
+  height: 150px;
+  padding-top: 100px;
+  margin-bottom: 0;
+}
+
+.top-navbar ul li a {
+  margin: 45px;
+  font-size: 20px;
+  color: white;
+  text-decoration: none;
+}
+
+#contact {
+  width: 40%;
+  margin-left: 40px;
+  font-size: 26px;
   color: white;
 }
 
@@ -76,7 +99,7 @@ input[type=submit]:hover {
 
 .container {
   border-radius: 5px;
-  background-color: #f2f2f2;
+  background-color: #ccc;
   padding: 20px;
 }
 
