@@ -66,6 +66,21 @@ nav ul {
   padding: 0;
 }
 
+.contact-info {
+  display: flex;
+  flex-wrap: column;
+}
+
+.contact-info div {
+  width: 45%;
+  height: 45%;
+  line-height: 10px;
+  margin: 0.7%;
+  padding: 5px;
+  font-size: 15px;
+  font-family: Calibri;
+}
+
 article {
   float: left;
   padding: 20px;
