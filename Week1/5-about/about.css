@@ -66,6 +66,29 @@ nav ul {
   padding: 0;
 }
 
+.owners {
+  display: flex;
+  flex-wrap: column;
+}
+
+.owners div {
+  width: 45%;
+  height: 45%;
+  line-height: 10px;
+  margin: 0.7%;
+  padding: 5px;
+  font-size: 15px;
+  font-family: Calibri;
+}
+
+.owners div img {
+  width: 95%;
+  height: 80%;
+  line-height: 22px;
+  margin: 0.7%;
+  padding: 5px;
+}
+
 article {
   float: left;
   padding: 20px;
