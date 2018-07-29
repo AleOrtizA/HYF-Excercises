@@ -17,6 +17,11 @@ body {
   padding: 15px;
 }
 
+h2 {
+  width: 40%;
+  margin-left: 40px;
+}
+
 top-navbar {
   background-color: #1ddd04;
   padding: 30px;
