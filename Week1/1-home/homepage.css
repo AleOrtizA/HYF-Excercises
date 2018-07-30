@@ -102,6 +102,16 @@ section:after {
   padding: 5px;
 }
 
+.products-main {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 20px;
+  padding: 10px;
+  width: 95%;
+  background-color: white;
+  height: 700px;
+}
+
 .fa {
   padding: 20px;
   font-size: 30px;

@@ -54,13 +54,6 @@ section:after {
   clear: both;
 }
 
-footer {
-  background-color: #1ddd04;
-  padding: 22px;
-  text-align: center;
-  color: white;
-}
-
 @media (max-width: 1200px) {
   nav,
   article {
