@@ -24,3 +24,9 @@ Week 11-13 Trans United Nederland (some supervision)
 * Week 8 JS Backend - Backend as a service
 * Week 9 JS Backend - Backend as a service
 * Week 10 Bugs fixing, deploying
+
+3 weeks for alternate projects
+
+* Week 11 (Review Trans United Nederland)
+* Week 12 (Review Willemijn Da Campo)
+* Week 13 Bugs fixing, deploying
