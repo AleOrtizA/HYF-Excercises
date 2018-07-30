@@ -1,4 +1,4 @@
-Goals for Week3
+Project goals for Week3
 
 * Create JSON File.
 * Fill JSON with data for each dynamic component.
