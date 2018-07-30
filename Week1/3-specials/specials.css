@@ -41,6 +41,15 @@ nav ul {
   background-color: #f1f1f1;
 }
 
+.specials-box {
+  float: left;
+  margin: 20px;
+  padding: 20px;
+  width: 90%;
+  background-color: red;
+  height: 250px;
+}
+
 article {
   float: left;
   padding: 20px;

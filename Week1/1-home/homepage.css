@@ -7,7 +7,7 @@
 nav {
   float: left;
   width: 30%;
-  height: 800px;
+  height: 1100px;
   background: #ccc;
   padding: 20px;
 }
@@ -54,6 +54,15 @@ nav ul {
 .active:after {
   content: "\2796";
   /* Unicode character for "minus" sign (-) */
+}
+
+.specials-box {
+  float: left;
+  margin: 20px;
+  padding: 20px;
+  width: 90%;
+  background-color: red;
+  height: 250px;
 }
 
 article {
